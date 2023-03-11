@@ -1,4 +1,4 @@
-![picture1](images/microsoft picture.jpeg)
+![picture1](images/director_shot.jpeg)
 # Movie Earnings Analysis
 ### Author: Nelson Kibet Kemboi
 ## Overview  
@@ -53,6 +53,7 @@ This are best colection of genres people voted as thier most preference
 Further analysis should be done to determine more factors between movie production cost and returns to get more insights 
 ## For More Information
 Please review the full analysis in the Jupyter Notebook or the presentation.
+
 For any additional questions, please contact Nelson Kemboi
 
 
