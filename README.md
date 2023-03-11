@@ -19,7 +19,7 @@ In this report i read the data from SQL table and csv datasets. Since some had n
  It can be seen that people voted much for some genre. 
 Over 600,000 votes were tabulated like Action/Thriller and Drama/Western.
 ### Best directors in the industry 
-![picture3](images/directors-rating.png)
+![picture3](images/directors-ratings.PNG)
 Best movie directors rankings.
 This is based on the number of movies made and the average ratings they had. 
 ### Best studios
