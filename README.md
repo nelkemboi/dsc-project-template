@@ -1,4 +1,4 @@
-![picture1](images/director_shot.jpeg)
+![picture1](images/microsoft picture.jpeg)
 # Movie Earnings Analysis
 ### Author: Nelson Kibet Kemboi
 ## Overview  
