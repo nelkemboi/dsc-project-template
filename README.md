@@ -54,13 +54,3 @@ Further analysis should be done to determine more factors between movie producti
 Please review the full analysis in the Jupyter Notebook or the presentation.
 
 For any additional questions, please contact Nelson Kemboi
-
-
-
-
-
-
-
-
-
-
